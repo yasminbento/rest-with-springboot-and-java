@@ -1,2 +1,2 @@
-com\restwithspringboot\demo\DemoApplication.class
-com\restwithspringboot\demo\MathController.class
+br\com\erudio\MathController.class
+br\com\erudio\DemoApplication.class

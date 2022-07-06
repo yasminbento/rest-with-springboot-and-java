@@ -1,8 +1,7 @@
-package com.restwithspringboot.demo;
+package br.com.erudio;
 
+import br.com.erudio.exceptions.UnsupportedMathOperationException;
 import org.springframework.web.bind.annotation.*;
-
-import java.util.concurrent.atomic.AtomicLong;
 
 @RestController
 public class MathController {
@@ -16,7 +15,7 @@ public class MathController {
     ) throws Exception{
 
         if (!isNumeric(numberOne) || !isNumeric(numberTwo)) {
-            throw new Exception();
+            throw new UnsupportedMathOperationException("Please, set a numeric value");
         }
         return convertToDouble(numberOne) + convertToDouble(numberTwo);
     }

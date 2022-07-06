@@ -1,2 +1,5 @@
-C:\Users\User\Documents\rest-with-springboot-and-java\src\main\java\com\restwithspringboot\demo\MathController.java
-C:\Users\User\Documents\rest-with-springboot-and-java\src\main\java\com\restwithspringboot\demo\DemoApplication.java
+C:\Users\User\Documents\rest-with-springboot-and-java\src\main\java\br\com\erudio\exceptions\CustomizedResponseEntityExceptionHandler.java
+C:\Users\User\Documents\rest-with-springboot-and-java\src\main\java\br\com\erudio\MathController.java
+C:\Users\User\Documents\rest-with-springboot-and-java\src\main\java\br\com\erudio\exceptions\ExceptionResponse.java
+C:\Users\User\Documents\rest-with-springboot-and-java\src\main\java\br\com\erudio\exceptions\UnsupportedMathOperationException.java
+C:\Users\User\Documents\rest-with-springboot-and-java\src\main\java\br\com\erudio\DemoApplication.java
