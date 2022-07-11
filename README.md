@@ -1,1 +1,1 @@
-# rest-with-springboot-and-java
+# rest-with-springboot-and-java-calculator
